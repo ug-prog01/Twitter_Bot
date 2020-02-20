@@ -1,0 +1,15 @@
+{
+  "name": "npm_test",
+  "version": "1.0.0",
+  "description": "First Test",
+  "main": "bots.js",
+  "scripts": {
+    "start": "node twitterbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UG",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
